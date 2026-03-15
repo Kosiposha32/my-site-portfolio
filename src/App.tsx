@@ -47,8 +47,8 @@ const projects: Project[] = [
   },
   {
     id: 4,
-    title: "Проект 04",
-    description: "Ваше видео для портфолио. Замените этот текст на краткое описание проекта.",
+    title: "Временно",
+    description: "Временное нахождение данного видео",
     preview: "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=800&h=600&fit=crop",
     embedUrl: "https://www.youtube.com/embed/XrAoDZLZZ1g",
     category: "Видео"
