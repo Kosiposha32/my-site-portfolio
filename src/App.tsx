@@ -31,18 +31,18 @@ const projects: Project[] = [
   },
   {
     id: 2,
-    title: "Проект 02",
-    description: "Ваше видео для портфолио. Замените этот текст на краткое описание проекта.",
+    title: "Жизнь внутри цирка",
+    description: "Ролик про людей внутри цирка, их переживаниях и чувствах. Формат интервью",
     preview: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=800&h=600&fit=crop",
-    embedUrl: "https://www.youtube.com/embed/jBhX2Kdqoyk?start=172",
+    embedUrl: "https://youtube.com/emded/7x_Vag-XAeQ",
     category: "Видео"
   },
   {
     id: 3,
-    title: "Проект 03",
-    description: "Ваше видео для портфолио. Замените этот текст на краткое описание проекта.",
+    title: "Extreme circus",
+    description: "Проморолик про экстремальный цирк",
     preview: "https://images.unsplash.com/photo-1514525253440-b393452e8d26?w=800&h=600&fit=crop",
-    embedUrl: "https://www.youtube.com/embed/ntUI-ENXQeM",
+    embedUrl: "https://youtube.com/emded/mXga2mcKTfs",
     category: "Видео"
   },
   {
