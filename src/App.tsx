@@ -23,10 +23,10 @@ interface Skill {
 const projects: Project[] = [
   {
     id: 1,
-    title: "Проект 01",
-    description: "Ваше видео для портфолио. Замените этот текст на краткое описание проекта.",
+    title: "This Grok AI",
+    description: "Короткий моушен ролик про Grok AI",
     preview: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&h=600&fit=crop",
-    embedUrl: "https://www.youtube.com/embed/S3m36N26EP4?start=297",
+    embedUrl: "https://www.youtube.com/watch?v=A1d8UWcVg40",
     category: "Видео"
   },
   {
