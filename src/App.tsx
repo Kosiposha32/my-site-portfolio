@@ -26,7 +26,7 @@ const projects: Project[] = [
     title: "This Grok AI",
     description: "Короткий моушен ролик про Grok AI",
     preview: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&h=600&fit=crop",
-    embedUrl: "https://youtu.be/A1d8UWcVg40",
+    embedUrl: "https://youtube.com/embed/A1d8UWcVg40",
     category: "Видео"
   },
   {
