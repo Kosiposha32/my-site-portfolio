@@ -34,7 +34,7 @@ const projects: Project[] = [
     title: "Жизнь внутри цирка",
     description: "Ролик про людей внутри цирка, их переживаниях и чувствах. Формат интервью",
     preview: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=800&h=600&fit=crop",
-    embedUrl: "https://youtube.com/emded/7x_Vag-XAeQ",
+    embedUrl: "https://youtube.com/embed/7x_Vag-XAeQ",
     category: "Видео"
   },
   {
@@ -42,7 +42,7 @@ const projects: Project[] = [
     title: "Extreme circus",
     description: "Проморолик про экстремальный цирк",
     preview: "https://images.unsplash.com/photo-1514525253440-b393452e8d26?w=800&h=600&fit=crop",
-    embedUrl: "https://youtube.com/emded/mXga2mcKTfs",
+    embedUrl: "https://youtube.com/embed/mXga2mcKTfs",
     category: "Видео"
   },
   {
