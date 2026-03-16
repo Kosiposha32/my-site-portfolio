@@ -23,50 +23,50 @@ interface Skill {
 const projects: Project[] = [
   {
     id: 1,
-    title: "Проект 01",
-    description: "Ваше видео для портфолио. Замените этот текст на краткое описание проекта.",
+    title: "This Grok Ai",
+    description: "Короткий моушен ролик про Grok Ai",
     preview: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&h=600&fit=crop",
-    embedUrl: "https://www.youtube.com/embed/S3m36N26EP4?start=297",
+    embedUrl: "https://youtube.com/embed/A1d8UWcVg40",
     category: "Видео"
   },
   {
     id: 2,
-    title: "Проект 02",
-    description: "Ваше видео для портфолио. Замените этот текст на краткое описание проекта.",
+    title: "Жизнь внутри цирка",
+    description: "Ролик про людей, которые работают в цирке, их переживаниях и чувствах. Формат вопрос-ответ",
     preview: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=800&h=600&fit=crop",
-    embedUrl: "https://www.youtube.com/embed/jBhX2Kdqoyk?start=172",
+    embedUrl: "https://youtube.com/embed/7x_Vag-XAeQ",
     category: "Видео"
   },
   {
     id: 3,
-    title: "Проект 03",
-    description: "Ваше видео для портфолио. Замените этот текст на краткое описание проекта.",
+    title: "Extreme circus",
+    description: "Короткий промо ролик про экстремальный цирк",
     preview: "https://images.unsplash.com/photo-1514525253440-b393452e8d26?w=800&h=600&fit=crop",
-    embedUrl: "https://www.youtube.com/embed/ntUI-ENXQeM",
+    embedUrl: "https://youtube.com/embed/mXga2mcKTfs",
     category: "Видео"
   },
   {
     id: 4,
-    title: "Проект 04",
-    description: "Ваше видео для портфолио. Замените этот текст на краткое описание проекта.",
+    title: "Интро",
+    description: "Интро к проморолику ведущего",
     preview: "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=800&h=600&fit=crop",
-    embedUrl: "https://www.youtube.com/embed/XrAoDZLZZ1g",
+    embedUrl: "https://youtube.com/embed/TP8pSrYYjNs",
     category: "Видео"
   },
   {
     id: 5,
-    title: "Reels 01",
-    description: "Вертикальное видео для социальных сетей. Динамичный монтаж и трендовые переходы.",
+    title: "Кофейня",
+    description: "Вертикальный ролик про кофейню. С анимационным лого и трендовыми переходами",
     preview: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&h=800&fit=crop",
-    embedUrl: "https://www.youtube.com/embed/S3m36N26EP4?start=297",
+    embedUrl: "https://youtube.com/shorts/amz0jxpe23M?feature=share",
     category: "Reels"
   },
   {
     id: 6,
-    title: "Reels 02",
-    description: "Короткий формат для Instagram и TikTok. Яркая цветокоррекция и саунд-дизайн.",
+    title: "Недвижимость",
+    description: "Reels про недвижимость",
     preview: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=600&h=800&fit=crop",
-    embedUrl: "https://www.youtube.com/embed/jBhX2Kdqoyk?start=172",
+    embedUrl: "https://youtube.com/shorts/CpPOSS60Pmc?feature=share",
     category: "Reels"
   },
   {
