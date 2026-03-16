@@ -64,7 +64,7 @@ const projects: Project[] = [
   {
     id: 6,
     title: "Недвижимость",
-    description: "Reels про недвижимость",
+    description: "Вертикальный ролик про недвижимость",
     preview: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=600&h=800&fit=crop",
     embedUrl: "https://youtube.com/embed/CpPOSS60Pmc?feature=share",
     category: "Reels"
