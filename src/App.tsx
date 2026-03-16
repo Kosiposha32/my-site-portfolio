@@ -58,7 +58,7 @@ const projects: Project[] = [
     title: "Кофейня",
     description: "Вертикальный ролик про кофейню. С анимационным лого и трендовыми переходами",
     preview: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=600&h=800&fit=crop",
-    embedUrl: "https://youtube.com/embed/amz0jxpe23M?feature=share",
+    embedUrl: "https://youtube.com/shorts/aibZpkUVsng?feature=share",
     category: "Reels"
   },
   {
