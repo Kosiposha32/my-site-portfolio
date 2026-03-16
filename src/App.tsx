@@ -356,7 +356,7 @@ const observer = new IntersectionObserver(
           </p>
 
           <p className={cn('mb-8 sm:mb-10 max-w-3xl mx-auto text-base sm:text-lg xl:text-xl leading-relaxed', theme === 'dark' ? 'text-slate-400' : 'text-slate-500')}>
-            Создаю визуальные истории с вниманием к деталям. Более одного года опыта работы в индустрии видеопроизводства.
+            Создаю визуальные истории с вниманием к деталям. Более года опыта работы в индустрии видеопроизводства.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center max-w-xl sm:max-w-none mx-auto">
@@ -585,7 +585,7 @@ const observer = new IntersectionObserver(
               </h2>
               <div className={cn('space-y-5 sm:space-y-6 text-base sm:text-lg xl:text-xl leading-relaxed', theme === 'dark' ? 'text-slate-300' : 'text-slate-600')}>
                 <p>
-                  Привет! Меня зовут Кирилл, и я видеомонтажер с одним и более года опыта работы в индустрии. Моя страсть - превращать сырой материал в захватывающие визуальные истории, которые резонируют с аудиторией.
+                  Привет! Меня зовут Кирилл. Моя страсть - превращать сырой материал в захватывающие визуальные истории, которые резонируют с аудиторией.
                 </p>
                 <p>
                   Я верю, что хороший монтаж - это способность проявить эмоции у зрителя по ту сторону экрана, а также понятно и доступно объяснить суть повествования через грамотный визуал и звук.
