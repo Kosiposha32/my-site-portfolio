@@ -50,7 +50,7 @@ const projects: Project[] = [
     title: "Интро",
     description: "Интро к проморолику ведущего",
     preview: "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=800&h=600&fit=crop",
-    embedUrl: "https://youtube.com/embed/TP8pSrYYjNs",
+    embedUrl: "https://youtube.com/shorts/amz0jxpe23M?feature=share",
     category: "Видео"
   },
   {
@@ -66,7 +66,7 @@ const projects: Project[] = [
     title: "Недвижимость",
     description: "Reels про недвижимость",
     preview: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=600&h=800&fit=crop",
-    embedUrl: "https://youtube.com/shorts/CpPOSS60Pmc?feature=share",
+    embedUrl: "https://www.youtube.com/shorts/CpPOSS60Pmc",
     category: "Reels"
   },
   {
