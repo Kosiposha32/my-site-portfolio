@@ -50,7 +50,7 @@ const projects: Project[] = [
     title: "Интро",
     description: "Интро к проморолику ведущего",
     preview: "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=800&h=600&fit=crop",
-    embedUrl: "https://youtube.com/shorts/amz0jxpe23M?feature=share",
+    embedUrl: "https://youtube.com/embed/TP8pSrYYjNs",
     category: "Видео"
   },
   {
@@ -66,15 +66,15 @@ const projects: Project[] = [
     title: "Недвижимость",
     description: "Reels про недвижимость",
     preview: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?w=600&h=800&fit=crop",
-    embedUrl: "https://www.youtube.com/shorts/CpPOSS60Pmc",
+    embedUrl: "https://youtube.com/embed/CpPOSS60Pmc?feature=share",
     category: "Reels"
   },
   {
     id: 7,
-    title: "Reels 03",
-    description: "Вирусный контент для социальных сетей. Быстрый темп и цепляющая история.",
+    title: "Мотор Ленд",
+    description: "Трендовый рилс с отличным вступление и финалом",
     preview: "https://images.unsplash.com/photo-1514525253440-b393452e8d26?w=600&h=800&fit=crop",
-    embedUrl: "https://www.youtube.com/embed/ntUI-ENXQeM",
+    embedUrl: "https://youtube.com/embed/aibZpkUVsng?feature=share",
     category: "Reels"
   }
 ];
