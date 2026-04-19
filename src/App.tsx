@@ -383,7 +383,7 @@ export default function App() {
           <div className="mt-12 sm:mt-16 grid grid-cols-3 gap-4 sm:gap-8 max-w-sm sm:max-w-xl mx-auto">
             {[
               { value: '50+', label: 'Проектов' },
-              { value: '8+', label: 'Довольных клиентов' },
+              { value: '8+', label: 'Постоянных клиентов' },
               { value: '1+', label: 'Год опыта' }
             ].map((stat, index) => (
               <div key={index} className="text-center">
