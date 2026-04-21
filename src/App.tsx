@@ -124,9 +124,9 @@ const projects: Project[] = [
   },
   {
     id: 3,
-    title: "Extreme circus",
-    description: "Короткий промо ролик про экстремальный цирк",
-    embedUrl: "https://youtube.com/embed/mXga2mcKTfs",
+    title: "Влад Морозов",
+    description: "Короткий отрывок из ютуб ролика про ресторан внутри лифта",
+    embedUrl: "https://youtube.com/embed/1OIUfB6_P84",
     category: "Видео"
   },
   {
