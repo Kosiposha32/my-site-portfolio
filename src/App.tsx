@@ -131,9 +131,9 @@ const projects: Project[] = [
   },
   {
     id: 4,
-    title: "Интро",
-    description: "Интро к проморолику ведущего",
-    embedUrl: "https://youtube.com/embed/TP8pSrYYjNs",
+    title: "Russian Fest. Dance skills",
+    description: "Концерт с участием Миа Бойко и группы Rasa",
+    embedUrl: "https://youtube.com/embed/tOk4WI-hjv8",
     category: "Видео"
   },
   {
