@@ -154,7 +154,7 @@ const projects: Project[] = [
     id: 7,
     title: "Мотор Ленд",
     description: "Трендовый рилс с отличным вступлением и финалом",
-    embedUrl: "https://youtube.com/embed/aibZpkUVsng",
+    embedUrl: "https://youtube.com/embed/muOMciijf34?",
     category: "Reels"
   }
 ];
