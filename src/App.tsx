@@ -138,9 +138,9 @@ const projects: Project[] = [
   },
   {
     id: 5,
-    title: "Кофейня",
-    description: "Вертикальный ролик про кофейню. С анимационным лого и трендовыми переходами",
-    embedUrl: "https://youtube.com/embed/amz0jxpe23M",
+    title: "Экспертное видео",
+    description: "Экспертный ролик об автомобиле AMG53",
+    embedUrl: "https://youtube.com/embed/2ob-w2ITkMI?",
     category: "Reels"
   },
   {
