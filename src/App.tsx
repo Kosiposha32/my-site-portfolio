@@ -119,7 +119,7 @@ const projects: Project[] = [
     id: 2,
     title: "What YOUR Main Killer Says about YOU | FORSAKEN ( Azure Update )",
     description: "Игровой ролик по роблоксу",
-    embedUrl: "https://www.youtube.com/watch?v=hPglZBLVT9E&t=3s",
+    embedUrl: ""https://www.youtube.com/embed/hPg1ZBLVT9E"",
     category: "Видео"
   },
   {
