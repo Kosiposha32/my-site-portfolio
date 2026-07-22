@@ -110,23 +110,23 @@ interface Skill {
 const projects: Project[] = [
   {
     id: 1,
-    title: "This Grok Ai",
-    description: "Короткий моушен ролик про Grok Ai",
-    embedUrl: "https://youtube.com/embed/A1d8UWcVg40",
+    title: "Павел Сидории. Ремонт и отделка",
+    description: "Короткий отрывок для канала миллионика",
+    embedUrl: "https://youtube.com/embed/wyg4TuFsAAo",
     category: "Видео"
   },
   {
     id: 2,
-    title: "Жизнь внутри цирка",
-    description: "Ролик про людей, которые работают в цирке, их переживаниях и чувствах. Формат вопрос-ответ",
-    embedUrl: "https://youtube.com/embed/7x_Vag-XAeQ",
+    title: "What YOUR Main Killer Says about YOU | FORSAKEN ( Azure Update )",
+    description: "Игровой ролик по роблоксу",
+    embedUrl: "https://www.youtube.com/watch?v=hPglZBLVT9E&t=3s",
     category: "Видео"
   },
   {
     id: 3,
-    title: "Влад Морозов",
-    description: "Короткий отрывок из ютуб ролика про ресторан внутри лифта",
-    embedUrl: "https://youtube.com/embed/1OIUfB6_P84",
+    title: "FTH | TRADING",
+    description: "Отрывок для канала по трейдингу",
+    embedUrl: "https://youtube.com/embed/MrZ3nwm0obs",
     category: "Видео"
   },
   {
