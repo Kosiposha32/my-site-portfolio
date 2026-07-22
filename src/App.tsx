@@ -119,7 +119,7 @@ const projects: Project[] = [
     id: 2,
     title: "What YOUR Main Killer Says about YOU | FORSAKEN ( Azure Update )",
     description: "Игровой ролик по роблоксу",
-    embedUrl: "https://www.youtube.com/embed/hPg1ZBLVT9E",
+    embedUrl: "https://www.youtube.com/embed/hPglZBLVT9E",
     category: "Видео"
   },
   {
@@ -133,7 +133,7 @@ const projects: Project[] = [
     id: 4,
     title: "Russian Fest. Dance skills",
     description: "Концерт с участием Миа Бойко и группы Rasa",
-    embedUrl: "https://www.youtube.com/embed/hPglZBLVT9E",
+    embedUrl: "https://youtube.com/embed/tOk4WI-hjv8",
     category: "Видео"
   },
   {
