@@ -344,11 +344,6 @@ export default function App() {
         </div>
 
         <div className="relative mx-auto w-full max-w-6xl text-center">
-          <div className={cn('mb-6 sm:mb-8 inline-flex max-w-full items-center gap-2 rounded-full px-4 py-2 text-xs sm:text-sm font-medium backdrop-blur-sm shadow-sm', theme === 'dark' ? 'bg-[#1d1d28]/80 text-slate-300 border border-white/5' : 'bg-white/80 text-slate-600')}>
-            <span className="flex h-2 w-2 rounded-full bg-green-500 animate-pulse" />
-            <span className="truncate">Доступен для новых проектов</span>
-          </div>
-
           <h1 className={cn('mb-5 sm:mb-6 text-4xl sm:text-5xl md:text-6xl xl:text-7xl 2xl:text-8xl font-bold tracking-tight leading-[0.95]', theme === 'dark' ? 'text-slate-100' : 'text-slate-900')}>
             Привет, я Кирилл
           </h1>
@@ -361,7 +356,7 @@ export default function App() {
             Создаю визуальные истории с вниманием к деталям. Более года опыта работы в индустрии видеопроизводства.
           </p>
 
-          <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center max-w-xl sm:max-w-none mx-auto">
+          <div className="flex justify-center">
             <button
               onClick={() => handleNavigate('portfolio')}
               className={cn("group inline-flex w-full sm:w-auto items-center justify-center gap-2 rounded-full px-6 sm:px-8 py-4 text-base sm:text-lg font-semibold text-white transition-all hover:scale-[1.02]", theme === 'dark' ? 'bg-gradient-to-r from-[#5a1f35] to-[#7a2347] shadow-lg shadow-black/30 hover:shadow-black/50' : 'bg-gradient-to-r from-rose-500 to-pink-600 shadow-lg shadow-rose-200 hover:shadow-xl hover:shadow-rose-300')}
@@ -370,12 +365,6 @@ export default function App() {
               <svg className="h-5 w-5 transition-transform group-hover:translate-x-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
               </svg>
-            </button>
-            <button
-              onClick={() => handleNavigate('contact')}
-              className={cn('inline-flex w-full sm:w-auto items-center justify-center gap-2 rounded-full border-2 px-6 sm:px-8 py-4 text-base sm:text-lg font-semibold transition-all', theme === 'dark' ? 'border-white/10 bg-[#181822] text-slate-200 hover:border-[#5a1f35] hover:bg-[#21131a]' : 'border-slate-300 bg-white text-slate-700 hover:border-slate-400 hover:bg-slate-50')}
-            >
-              Связаться со мной
             </button>
           </div>
 
