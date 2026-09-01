@@ -485,7 +485,7 @@ export default function App() {
           <div className="text-center mb-12 sm:mb-16">
             <h2 className={cn('text-3xl sm:text-4xl xl:text-5xl font-bold mb-4', theme === 'dark' ? 'text-white' : 'text-slate-900')}>Связь со мной</h2>
             <p className={cn('text-base sm:text-lg max-w-2xl mx-auto', theme === 'dark' ? 'text-slate-300' : 'text-slate-600')}>
-              Готовы обсудить ваш следующий проект? Свяжитесь со мной — я всегда открыт для новых возможностей.
+              Готовы обсудить ваш следующий проект? Свяжитесь со мной.
             </p>
           </div>
 
