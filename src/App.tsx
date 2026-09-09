@@ -131,9 +131,9 @@ const projects: Project[] = [
   },
   {
     id: 4,
-    title: "Russian Fest. Dance skills",
-    description: "Концерт с участием Миа Бойко и группы Rasa",
-    embedUrl: "https://youtube.com/embed/tOk4WI-hjv8",
+    title: "100 ДНЕЙ НА СКАЙБЛОКЕ В МАЙНКРАФТ ХАРДКОР",
+    description: "Ролик в котором главный персонаж выживает 100 дней в условиях сурового холода Mincraft",
+    embedUrl: "https://www.youtube.com/watch?v=Fdq-WK_BhPM&t=71s",
     category: "Видео"
   },
   {
