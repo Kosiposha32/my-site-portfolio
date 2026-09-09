@@ -133,7 +133,7 @@ const projects: Project[] = [
     id: 4,
     title: "100 ДНЕЙ НА СКАЙБЛОКЕ В МАЙНКРАФТ ХАРДКОР",
     description: "Ролик в котором главный персонаж выживает 100 дней в условиях сурового холода Mincraft",
-    embedUrl: "https://youtube.com/embed/Fdq-WK_BhPM&t=71s",
+    embedUrl: "https://youtube.com/embed/WK_BhPM&t=71s",
     category: "Видео"
   },
   {
