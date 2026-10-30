@@ -110,9 +110,9 @@ interface Skill {
 const projects: Project[] = [
   {
     id: 1,
-    title: "Павел Сидории. Ремонт и отделка",
-    description: "Короткий отрывок для канала миллионика",
-    embedUrl: "https://youtube.com/embed/wyg4TuFsAAo",
+    title: "100 дней выживания в хардкор мире 2д",
+    description: "Динамичный ролик где автор канала выживает в 2д мире майкрафт",
+    embedUrl: "https://www.youtube.com/embed/UcihatjIFPY&t=124s",
     category: "Видео"
   },
   {
