@@ -112,7 +112,7 @@ const projects: Project[] = [
     id: 1,
     title: "100 дней выживания в хардкор мире 2д",
     description: "Динамичный ролик где автор канала выживает в 2д мире майкрафт",
-    embedUrl: "https://www.youtube.com/embed/UcihatjIFPY&t=124s",
+    embedUrl: "https://youtube.com/embed/UcihatjIFPY",
     category: "Видео"
   },
   {
