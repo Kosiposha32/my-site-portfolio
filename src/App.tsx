@@ -117,16 +117,16 @@ const projects: Project[] = [
   },
   {
     id: 2,
-    title: "What YOUR Main Killer Says about YOU | FORSAKEN ( Azure Update )",
+    title: "Что о тебе говорит твой убица?| FORSAKEN ( Azure Update )",
     description: "Игровой ролик по роблоксу",
     embedUrl: "https://www.youtube.com/embed/hPglZBLVT9E",
     category: "Видео"
   },
   {
     id: 3,
-    title: "FTH | TRADING",
-    description: "Отрывок для канала по трейдингу",
-    embedUrl: "https://youtube.com/embed/MrZ3nwm0obs",
+    title: "Forsaken, НО урон РЕАЛЬНЫЙ",
+    description: "Видео где автор решил сравнить способности в игре по шкале боли в реальной жизни",
+    embedUrl: "https://youtube.com/embed/w-mCMBIxTuM",
     category: "Видео"
   },
   {
